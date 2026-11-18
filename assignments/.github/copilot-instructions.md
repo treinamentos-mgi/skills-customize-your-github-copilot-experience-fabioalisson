@@ -9,7 +9,7 @@ Este projeto é um site educacional para compartilhar tarefas e exercícios de p
 - [`assets/`](../assets/) Contém os recursos do site incluindo CSS, JavaScript, imagens e arquivos de configuração
 - [`index.html`](../index.html) A página principal do site que serve como um portal estático para navegar e visualizar tarefas. O conteúdo é configurável via arquivo [`config.json`](../config.json) para gerar dinamicamente listas e detalhes das tarefas.
 
-## Diretrizes do Projeto
+## Diretrizes do Projeto  
 
 - Manter estilo consistente em todas as páginas
 - Manter nomes de arquivos e pastas descritivos e organizados
