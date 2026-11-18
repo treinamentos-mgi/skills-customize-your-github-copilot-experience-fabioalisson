@@ -30,4 +30,3 @@ O programa concluído deve:
 - [Requisito 1]
 - [Requisito 2]
 - [Requisito 3]
-
